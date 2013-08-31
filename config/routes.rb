@@ -5,6 +5,8 @@ root to: "main#index"
 get '/login', to: "main#index"
 get '/logout', to: "main#{}"
 
+""
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
